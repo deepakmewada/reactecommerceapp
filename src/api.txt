@@ -1,0 +1,7 @@
+{
+  "package": [
+    { "id": 1, "name": "Apples",  "price": "200" },
+    { "id": 2, "name": "Banana", "price": "500" },
+    { "id": 3, "name": "Mango", "price": "400" }
+  ] 
+}
